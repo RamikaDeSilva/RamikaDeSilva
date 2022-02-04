@@ -4,7 +4,7 @@
 **RamikaDeSilva/RamikaDeSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- Ramika is gay (this is for learning about branches, I'm not gay I promise)
 - 🔭 I’m currently working on learning Lua and more about Python
 - 🌱 I’m currently learning about C# at school
 - 👯 I’m looking to collaborate on everything 
