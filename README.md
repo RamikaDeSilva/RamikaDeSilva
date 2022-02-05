@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @ramikadesilva0@gmail.com, INSTA: ramikadesilva 
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I have double-jointed fingers :)
+I MAKE A CHANGE THAT DESTROYS EVERYTHING
