@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with coding scripts in Lua 
 - 💬 Ask me about Investing in the Crypto Market
 - 📫 How to reach me: @ramikadesilva0@gmail.com, INSTA: ramikadesilva 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: I have double-jointed fingers :)
