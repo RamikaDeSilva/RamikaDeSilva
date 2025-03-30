@@ -1,7 +1,8 @@
-### Hi there 👋
-## My name is Ramika and I am a computer science and business student passionate about business and technology. I'm currently learning Javascript and React (I'm also planning on learning more backend development)
-## I work best with other people so if you have any project ideas or opportunities you want to tackle together, I would be happy to know!
-## 
+### Hi there! 👋
+## My name is Ramika (he/him) and I am a computer science and business student passionate about business and technology! ❇️
+## I'm currently learning Javascript and React (I'm also planning on learning more backend development) 🖥️
+## I love working with other passionate like-minded individuals so if you have any project ideas or opportunities you want to tackle together, I would be happy to know! 🧑‍🤝‍🧑
+## - 📫 How to reach me: @ramikadesilva0@gmail.com, 
 
 
 <!--
