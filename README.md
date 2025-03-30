@@ -1,5 +1,8 @@
 ### Hi there 👋
-## hackcamp - branch created 
+## My name is Ramika and I am a computer science and business student passionate about business and technology. I'm currently learning Javascript and React (I'm also planning on learning more backend development)
+## I work best with other people so if you have any project ideas or opportunities you want to tackle together, I would be happy to know!
+## 
+
 
 <!--
 **RamikaDeSilva/RamikaDeSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
