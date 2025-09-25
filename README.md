@@ -2,7 +2,7 @@
 
 🎓 I’m a 2nd-year student at **UBC** in the **BUCS (Business + Computer Science)** program.  
 💻 Passionate about **software development, AI/ML, and full-stack web apps**, I love building tools that make life more efficient and impactful.  
-🚀 My long-term interests also include **finance, entrepreneurship, and startups**.  
+🚀 My long-term interests also include **software engineering, finance, entrepreneurship, and startups**.  
 
 ---
 
