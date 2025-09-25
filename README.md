@@ -68,7 +68,7 @@
 
 ## 🎸 Fun Facts  
 - I play **guitar** in my free time  
-- I love learning **new languages** (English, Sinhala, and working on more!)  
+- I love learning **new languages** (Spanish, French and working on more!)  
 - Big fan of **hackathons** and building projects fast ⚡  
 
 ---
