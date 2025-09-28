@@ -74,4 +74,4 @@
 
 ---
 
-👉 Feel free to check out my repositories or connect with me!  
+👉 Feel free to check out my repositories or connect with me on Instagram or LinkedIn - I love meeting new people!  
