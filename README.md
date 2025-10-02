@@ -19,8 +19,10 @@
   <!---<img src="https://img.shields.io/badge/MERN%20Stack-3C873A?style=for-the-badge&logo=mongodb&logoColor=white"/>  
   <img src="https://img.shields.io/badge/FERN%20Stack-0FAAFF?style=for-the-badge&logo=react&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>  -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
   <img src="https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=java&logoColor=white"/>  
+  
 
   <!-- Backend & DB -->  
   <!---
