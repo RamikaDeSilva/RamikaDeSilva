@@ -69,7 +69,7 @@
 
 ## 🎸 Fun Facts  
 - I play **electric guitar** in my free time  
-- I love learning **new languages** (Spanish, French and working on more!)  
+- I love learning **new languages** (currently learning Spanish!)  
 - Big fan of **hackathons** and building projects fast ⚡  
 
 ---
