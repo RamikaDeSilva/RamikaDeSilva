@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/FERN%20Stack-0FAAFF?style=for-the-badge&logo=react&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>  -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bun-ffb6c1?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
+  <img src="https://img.shields.io/badge/Bun-ec4899?style=for-the-badge&logo=bun&logoColor=white" alt="Bun"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>  
   <img src="https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=java&logoColor=white"/>  
   
